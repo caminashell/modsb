@@ -194,4 +194,8 @@ qUINT_mxao.fx
 <img width="1130" height="1022" alt="Screenshot From 2025-07-10 17-30-37" src="https://github.com/user-attachments/assets/98cc37ac-bd94-443e-890d-82ec0a2a94a2" />
 <img width="1130" height="1022" alt="Screenshot From 2025-07-10 17-30-33" src="https://github.com/user-attachments/assets/09c6fd2c-711b-4990-a2e4-3b98d082cdb6" />
 
+## Example Video
 
+[![Example Video](https://img.youtube.com/vi/XDI5khU-JxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=XDI5khU-JxI)
+
+> Click image above to watch video.
