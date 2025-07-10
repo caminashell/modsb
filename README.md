@@ -46,9 +46,9 @@ NOTE: If you're running Stellar Blade from Steam, you will need to add the follo
 WINEDLLOVERRIDES="d3dcompiler_47=n;dxgi=n,b" %command%
 ```
 
-<img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-31-23" src="https://github.com/user-attachments/assets/b0d735a4-ac68-4225-bcb8-b416dc440d01" />
-<img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-31-33" src="https://github.com/user-attachments/assets/ca3fc4dc-6909-438c-bef9-736e6447ce2d" />
-
+| VANILLA | RESHADE |
+|:------:|:------:|
+| <img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-50-43" src="https://github.com/user-attachments/assets/26b6f3b2-ebde-4699-a860-b951d3b8df88" /> | <img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-50-35" src="https://github.com/user-attachments/assets/9c55490a-37f9-4ea5-8b84-81b7abc4f9aa" /> |
 
 ## Mods in Collection
 
@@ -166,6 +166,9 @@ zzSlimDorothy_P.pak
 zzSlimDorothy_P.ucas
 zzSlimDorothy_P.utoc
 ```
+
+<img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-31-23" src="https://github.com/user-attachments/assets/b0d735a4-ac68-4225-bcb8-b416dc440d01" />
+<img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-31-33" src="https://github.com/user-attachments/assets/ca3fc4dc-6909-438c-bef9-736e6447ce2d" />
 
 ### Additional Files
 
