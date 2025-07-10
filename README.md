@@ -1,3 +1,5 @@
+<img width="2560" height="1440" alt="Screenshot From 2025-07-10 16-31-10" src="https://github.com/user-attachments/assets/72f21347-aee6-4c58-ae0f-808a23159c36" />
+
 # Stellar Blade Mods
 
 This folder contains all the mods that I have selected, tested, and use for Stellar Blade. Compressed with 7-Zip to multiple archives to avoid Git Large File Storage issues.
@@ -43,6 +45,10 @@ NOTE: If you're running Stellar Blade from Steam, you will need to add the follo
 ```txt
 WINEDLLOVERRIDES="d3dcompiler_47=n;dxgi=n,b" %command%
 ```
+
+<img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-31-23" src="https://github.com/user-attachments/assets/b0d735a4-ac68-4225-bcb8-b416dc440d01" />
+<img width="2560" height="1440" alt="Screenshot From 2025-07-10 17-31-33" src="https://github.com/user-attachments/assets/ca3fc4dc-6909-438c-bef9-736e6447ce2d" />
+
 
 ## Mods in Collection
 
@@ -175,4 +181,11 @@ qUINT_mxao.fx
 ```
 
 ### Client Settings
+
+<img width="1130" height="1319" alt="Screenshot From 2025-07-10 17-30-19" src="https://github.com/user-attachments/assets/4ac33e33-db8b-4269-b8c8-ee3c32bb3bfe" />
+<img width="1130" height="1319" alt="Screenshot From 2025-07-10 17-30-19" src="https://github.com/user-attachments/assets/bbdd1d99-56b3-4e2c-9f73-8c09011fcb5a" />
+<img width="1130" height="1022" alt="Screenshot From 2025-07-10 17-30-58" src="https://github.com/user-attachments/assets/c32cab78-8ddd-4b70-a334-11c5956f2bdd" />
+<img width="1130" height="1022" alt="Screenshot From 2025-07-10 17-30-37" src="https://github.com/user-attachments/assets/98cc37ac-bd94-443e-890d-82ec0a2a94a2" />
+<img width="1130" height="1022" alt="Screenshot From 2025-07-10 17-30-33" src="https://github.com/user-attachments/assets/09c6fd2c-711b-4990-a2e4-3b98d082cdb6" />
+
 
