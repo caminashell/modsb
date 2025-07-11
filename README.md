@@ -54,8 +54,8 @@ WINEDLLOVERRIDES="d3dcompiler_47=n;dxgi=n,b" %command%
 
 All mods sourced from nexusmods.com:
 
-- `Compessed Total Size: 374.9 MB`
-- `Extracted Total Size: 701.1 MB`
+- `Compessed Total Size: 374.9 MB (4 items)`
+- `Extracted Total Size: 701.1 MB (92 items)`
 
 ```txt
 4sfasterscan_P.pak
