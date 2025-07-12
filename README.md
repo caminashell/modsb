@@ -35,7 +35,7 @@ I will consider creating a mod collection for Stellar Blade on Nexus Mods if the
 
 ## Reshade User Settings
 
-I have included a custom Reshade preset that I designed for playing Stellar Blade in SDR and have not noticed a performance difference using this preset configuration.
+I have included a custom Reshade preset that I designed for playing Stellar Blade in SDR and have not noticed a performance difference using this preset configuration. It does however, add an additional 40~50 watts of power on my GPU along side a 15% increase in processing, depending on the scene.
 
 - Copy the files within the `Shaders` to where you have Reshade shaders installed
 - Copy the preset file to where you have Reshade presets installed 
