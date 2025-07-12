@@ -4,7 +4,7 @@
 
 This folder contains all the mods that I have selected, tested, and use for Stellar Blade. Compressed with 7-Zip to multiple 100MB (99,614,720 byte) archives to avoid Git Large File Storage issues.
 
-I am not interested in nude/lude cosmetics at all but cyber/tech cosmetics, and quality of life related mods. You will not find any adult/NSFW mods in this collection.
+I am only interested in cyber/tech cosmetics, and quality of life related mods. There are not any adult/NSFW mods in this collection.
 
 ## Mod Credits & Disclaimer
 
