@@ -4,6 +4,9 @@
 
 This folder contains all the mods that I have selected, tested, and use for Stellar Blade. Compressed with 7-Zip to multiple 50MB (47,185,920 byte) archives to avoid Git Large File Storage issues.
 
+> [!TIP]
+> Once I figure out how, I will made and distribute a mod to change the menu background to the image I captured above within the archive. But do not intend on pushing it to the Nexus Mods platform at this time.
+
 ### Summary of adjustments:
 
 1. I did not like the appearance of the original EVE character - she looked innocent, naive, and weak to me. I prefer a stronger character design, and ultimately combined:
@@ -69,11 +72,11 @@ I have included a custom Reshade preset that I designed for playing Stellar Blad
 - Copy the files within the `Shaders` to where you have Reshade shaders installed
 - Copy the preset file to where you have Reshade presets installed 
 
-NOTE: If you're running Stellar Blade from Steam, you will need to add the following to the game launch options:
-
-```txt
-WINEDLLOVERRIDES="d3dcompiler_47=n;dxgi=n,b" %command%
-```
+> [!IMPORTANT]
+> If you're running Stellar Blade from Steam, you will need to add the following to the game launch options:
+> ```txt
+> WINEDLLOVERRIDES="d3dcompiler_47=n;dxgi=n,b" %command%
+> ```
 
 | VANILLA | RESHADE |
 |:------:|:------:|
