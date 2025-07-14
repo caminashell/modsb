@@ -1,11 +1,12 @@
-![Camina Shell Shell Blade Mods](https://github.com/user-attachments/assets/3b7241da-b317-4fd6-a7ce-49dbd5b13c8d)
+<!--![Camina Shell Shell Blade Mods](https://github.com/user-attachments/assets/3b7241da-b317-4fd6-a7ce-49dbd5b13c8d)-->
+![Screenshot From 2025-07-14 16-47-15](https://github.com/user-attachments/assets/0fbb225c-691c-4482-94e7-5c1610a2d778)
 
 # Stellar Blade Mods
 
 This folder contains all the mods that I have selected, tested, and use for Stellar Blade. Compressed with 7-Zip to multiple 50MB (47,185,920 byte) archives to avoid Git Large File Storage issues.
 
 > [!TIP]
-> Once I figure out how, I will made and distribute a mod to change the menu background to the image I captured above within the archive. But do not intend on pushing it to the Nexus Mods platform at this time.
+> - [x] Once I figure out how, I will made and distribute a mod to change the menu background to the image I captured above within the archive. [See how...](#optional-menu-cover-art)
 
 ### Summary of adjustments:
 
@@ -64,6 +65,12 @@ I will consider creating a mod collection for Stellar Blade on Nexus Mods if the
 > Most of these mods will **NOT** render correctly for the demo version of Stellar Blade due to the demo game missing many assets from the full game, as shown in the image below.
 > 
 > ![Test in Demo Version](https://github.com/user-attachments/assets/05f50cac-07f2-4b92-acbb-187c04fdbb5a)
+
+
+## (Optional) Menu Cover Art
+
+1. Rename or backup the original file `EVE_Title.bk2` within `StellarBlade/SB/Content/Movies`, e.g. to `EVE_Title_Original.bk2`
+2. Copy the custom `EVE_Title.bk2` file to `StellarBlade/SB/Content/Movies`
 
 ## Reshade User Settings
 
