@@ -1,4 +1,4 @@
-![Screenshot From 2025-07-14 16-47-15 (1)](https://github.com/user-attachments/assets/5982c6f2-84b1-48cd-aaa0-e5871719fe91)
+![Screenshot From 2025-07-14 17-16-40](https://github.com/user-attachments/assets/2305278f-f05d-4e23-8d88-e365aecafaf1)
 
 # Stellar Blade Mods
 
