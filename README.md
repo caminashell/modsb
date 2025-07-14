@@ -5,7 +5,7 @@
 This folder contains all the mods that I have selected, tested, and use for Stellar Blade. Compressed with 7-Zip to multiple 50MB (47,185,920 byte) archives to avoid Git Large File Storage issues.
 
 > [!TIP]
-> - [x] Once I figure out how, I will make and distribute a mod to change the menu background to the image I captured above. [See how...](#optional-menu-cover-art)
+> - [x] Once I figure out how, I will make a mod to change the menu background to the image I captured above. [See how...](#optional-menu-cover-art)
 
 ### Summary of adjustments:
 
