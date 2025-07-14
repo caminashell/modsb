@@ -5,7 +5,7 @@
 This folder contains all the mods that I have selected, tested, and use for Stellar Blade. Compressed with 7-Zip to multiple 50MB (47,185,920 byte) archives to avoid Git Large File Storage issues.
 
 > [!TIP]
-> - [x] Once I figure out how, I will made and distribute a mod to change the menu background to the image I captured above within the archive. [See how...](#optional-menu-cover-art)
+> - [x] Once I figure out how, I will make and distribute a mod to change the menu background to the image I captured above. [See how...](#optional-menu-cover-art)
 
 ### Summary of adjustments:
 
@@ -70,6 +70,13 @@ I will consider creating a mod collection for Stellar Blade on Nexus Mods if the
 
 1. Rename or backup the original file `EVE_Title.bk2` within `StellarBlade/SB/Content/Movies`, e.g. to `EVE_Title_Original.bk2`
 2. Copy the custom `EVE_Title.bk2` file to `StellarBlade/SB/Content/Movies`
+
+### How did I do this?
+
+I used a few tools to process the PNG image file I had into a Bink2 video container:
+-  Krita for compositing
+-  Upscaler for additional quality processing
+-  RAD Video Tools to create the output file result
 
 ## Reshade User Settings
 
