@@ -1,5 +1,4 @@
-<!--![Camina Shell Shell Blade Mods](https://github.com/user-attachments/assets/3b7241da-b317-4fd6-a7ce-49dbd5b13c8d)-->
-![Screenshot From 2025-07-14 16-47-15](https://github.com/user-attachments/assets/0fbb225c-691c-4482-94e7-5c1610a2d778)
+![Screenshot From 2025-07-14 16-47-15 (1)](https://github.com/user-attachments/assets/5982c6f2-84b1-48cd-aaa0-e5871719fe91)
 
 # Stellar Blade Mods
 
